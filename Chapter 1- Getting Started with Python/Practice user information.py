@@ -9,13 +9,3 @@ print (name )
 print (university )
 print (age )
 print (hobby ) 
-
-
-
-
-
-
-
-
-
-
